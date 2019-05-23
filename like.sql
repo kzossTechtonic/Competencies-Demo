@@ -1,0 +1,1 @@
+SELECT * FROM `comp_schema`.`Songs` WHERE `year` LIKE '199_';
