@@ -1,4 +1,4 @@
-CREATE TABLE songs (
+CREATE TABLE `comp_schema`.`Songs`(
     id INTEGER,
     artist TEXT,
     title TEXT,
