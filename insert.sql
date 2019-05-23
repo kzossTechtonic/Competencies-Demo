@@ -14,3 +14,25 @@ INSERT INTO songs (id, artist, title, year)
 VALUES (5, 'TLC', 'No Scrubs', 1999);
 
 INSERT INTO songs (id, artist, title, year)
+VALUES (6, 'Blackstreet', 'No Diggity', 1996);
+
+INSERT INTO songs (id, artist, title, year)
+VALUES (7, "Coolio", "Gangsta's Paradise", 1995);
+
+INSERT INTO songs (id, artist, title, year)
+VALUES (8, 'Nirvana', 'Smells Like Teen Spirit', 1991);
+
+INSERT INTO songs (id, artist, title, year)
+VALUES (9, "Dr. Dre", "Nothin' But a G Thang", 1992);
+
+INSERT INTO songs (id, artist, title, year)
+VALUES (10, 'Mariah Carey', 'Vision of Love', 1990);
+
+INSERT INTO songs (id, artist, title, year)
+VALUES (11, 'Beastie Boys', 'Sabotage', 1994);
+
+INSERT INTO songs (id, artist, title, year)
+VALUES (12, 'Salt-N-Pepa', 'Whatta Man', 1993);
+
+INSERT INTO songs (id, artist, title, year)
+VALUES (13, "NSYNC", "Tearin' Up My Heart", 1998);
