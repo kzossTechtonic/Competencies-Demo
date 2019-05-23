@@ -1,2 +1,2 @@
 # Competencies-Demo
-My creation of 90s songs generating SQL statements in MySQL Workbench. 
+My creation of 90s songs SQL scripts, generated in MySQL Workbench. 
