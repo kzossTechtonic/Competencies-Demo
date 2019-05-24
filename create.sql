@@ -3,5 +3,6 @@ CREATE TABLE `comp_schema`.`Songs`(
     `artist` varchar(45) NOT NULL,
     `title` varchar(45) NOT NULL,
     `year` int(11) NOT NULL,
+    `genre` varchar(45) NOT NULL,
     PRIMARY KEY (`id`)
 );
