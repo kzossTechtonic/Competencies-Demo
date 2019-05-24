@@ -1,0 +1,12 @@
+/Users/karennazoss/projects/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/karennazoss/projects/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/karennazoss/projects/NumberGuesser/obj/x86/Debug/NumberGuesser.csprojAssemblyReference.cache
+/Users/karennazoss/projects/NumberGuesser/obj/x86/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/karennazoss/projects/NumberGuesser/obj/x86/Debug/NumberGuesser.exe
+/Users/karennazoss/projects/NumberGuesser/obj/x86/Debug/NumberGuesser.pdb
+/Users/karennazoss/Desktop/Competencies-Demo/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/karennazoss/Desktop/Competencies-Demo/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/karennazoss/Desktop/Competencies-Demo/NumberGuesser/obj/x86/Debug/NumberGuesser.csprojAssemblyReference.cache
+/Users/karennazoss/Desktop/Competencies-Demo/NumberGuesser/obj/x86/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/karennazoss/Desktop/Competencies-Demo/NumberGuesser/obj/x86/Debug/NumberGuesser.exe
+/Users/karennazoss/Desktop/Competencies-Demo/NumberGuesser/obj/x86/Debug/NumberGuesser.pdb
