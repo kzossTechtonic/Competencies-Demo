@@ -16,11 +16,32 @@ VALUES
 (10, 'Mariah Carey', 'Vision of Love', 1990, 'R&B'),
 (11, 'Beastie Boys', 'Sabotage', 1994, 'Hip Hop'),
 (12, 'Salt-N-Pepa', 'Whatta Man', 1993, 'Hip Hop'),
-(13, "NSYNC", "Tearin' Up My Heart", 1998, 'Pop');
-
-
-
-(14, 'Backstreet Boys', 'I Want It That Way', 1999, `Pop`);
+(13, "NSYNC", "Tearin' Up My Heart", 1998, 'Pop'),
+(14, 'Backstreet Boys', 'I Want It That Way', 1999, 'Pop'),
+(15, 'Oasis', 'Wonderwall', 1995, 'Alternative Rock'),
+(16, "No Doubt", "Don't Speak", 1995, 'Alternative Rock'),
+(17, 'Red Hot Chili Peppers', 'Californication', 1999, 'Alternative Rock'),
+(18, 'Soundgarden', 'Black Hole Sun', 1994, 'Alternative Rock'),
+(19, 'Brand & Monica', 'The Boy Is Mine', 1998, 'R&B'),
+(20, "Puff Daddy", "I'll Be Missing You", 1997, 'Hip Hop'),
+(21, "Destiny's Child", "Say My Name", 1999, 'R&B'),
+(22, 'The Notorious B.I.G.', 'Mo Money Mo Problems', 1997, 'Gangsta Rap'),
+(23, 'Jewel', 'You Were Meant For Me', 1995, 'Pop'),
+(24, 'Janet Jackson', "That's The Way Love Goes", 1993, 'R&B'),
+(25, 'Natalie Imbruglia', 'Torn', 1997, 'Alternative Rock'),
+(26, 'Hanson', 'MMMBop', 1997, 'Pop'),
+(27, 'Cher', 'Believe', 1998, 'Pop'),
+(28, 'Will Smith', "Gettin' Jiggy Wit' It", 1997, 'Hip Hop'),
+(29, 'Jennifer Lopez', 'If You Had My Love', 1999, 'Pop'),
+(30, 'Gin Blossoms', 'Hey Jealousy', 1992, 'Alternative Rock'),
+(31, 'Tupac Shakur', 'California Love', 1996, 'Gangsta Rap'),
+(32, 'Savage Garden', 'Truly Madly Deeply', 1997, 'Pop'),
+(33, 'Counting Crows', 'Mr. Jones', 1993, 'Alternative Rock'),
+(34, 'Vanilla Ice', 'Ice Ice Baby', 1990, 'Hip Hop'),
+(35, 'MC Hammer', "U Can't Touch This", 1990, 'Hip Hop'),
+(36, 'Christina Aguilera', 'Genie in a Bottle', 1999, 'Pop'),
+(37, 'Foo Fighters', 'Learn To Fly', 1999, 'Alternative Rock'),
+(38, 'Eminem', 'My Name Is', 1999, 'Hip Hop');
 
 
 
