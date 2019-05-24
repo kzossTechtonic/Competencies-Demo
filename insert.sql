@@ -2,7 +2,8 @@ INSERT INTO `comp_schema`.`Songs`
 (`id`,
 `artist`,
 `title`,
-`year`)
+`year`,
+`genre`)
 VALUES
 (1, 'Fugees', 'Killing Me Softly', 1996, 'Hip Hop'),
 (2, 'Bone Thugs N Harmony', 'Crossroads', 1995, 'Gangsta Rap'),
