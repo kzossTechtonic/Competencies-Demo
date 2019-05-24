@@ -1,12 +1,15 @@
 ﻿using System;
 
+//Namespace
 namespace NumberGuesser
 {
+    //Main Class
     class MainClass
     {
+        //Entry Point Method
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worldier!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
