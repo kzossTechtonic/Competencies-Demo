@@ -115,7 +115,7 @@ namespace NumberGuesser
         }
 
         // Pring color message
-        static void PrintColorMessage(ConsoleColor color, string message)
+        static void PrintColorMessage(ConsoleColor color, string message )
         {
             // Change text color
             Console.ForegroundColor = color;
