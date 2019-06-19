@@ -3,8 +3,8 @@ SET artist = 'Lauren Hill'
 WHERE id = 1;
 
 ALTER TABLE comp_schema.Songs 
-ADD COLUMN genre 
-VARCHAR(25) AFTER year;
+ADD COLUMN rating 
+VARCHAR(25) AFTER genre;
 
 UPDATE comp_schema.Songs 
 SET genre = 'Hip Hop'
